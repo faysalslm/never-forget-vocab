@@ -1,6 +1,7 @@
 ### Never Forget Vocab
 A tiny Streamlit app I’m building to make vocab stick. You get a clean flashcard for each word (meaning with connotation, synonyms/antonyms, and an example), and you can generate one sentence at a time (Easy / Moderate / Hard) to see the word in different contexts.
 I built it because my wife kept forgetting GRE/IELTS words unless she saw them used in sentences. This solves that.
+**This repo is frozen as of v1.0. Further work will continue in a private repo.**
 
 ### What you can do
 - Search a word or flip through them with Next/Back
